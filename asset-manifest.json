@@ -1,0 +1,37 @@
+{
+  "files": {
+    "main.css": "/rpc/static/css/main.c6ee2a7a.css",
+    "main.js": "/rpc/static/js/main.bd75ae93.js",
+    "static/js/787.b154260e.chunk.js": "/rpc/static/js/787.b154260e.chunk.js",
+    "static/media/benifit1.png": "/rpc/static/media/benifit1.da65c337081dfdbfb013.png",
+    "static/media/benifit5.png": "/rpc/static/media/benifit5.e4ecda231b6c8bb6d232.png",
+    "static/media/benifitZero.png": "/rpc/static/media/benifitZero.ce7251618b44f3d32470.png",
+    "static/media/asset 7.octet-stream": "/rpc/static/media/asset 7.813a82ed9be77b15fdc7.octet-stream",
+    "static/media/asset 6.octet-stream": "/rpc/static/media/asset 6.1f389970e0097ae50cac.octet-stream",
+    "static/media/Matter-Medium.woff": "/rpc/static/media/Matter-Medium.9094dd7db8b26badf5d7.woff",
+    "static/media/Matter-SemiBold.woff": "/rpc/static/media/Matter-SemiBold.5365e88acb035e903626.woff",
+    "static/media/Matter-Regular.woff": "/rpc/static/media/Matter-Regular.94b34b800eeb1c5d7496.woff",
+    "static/media/Matter-Bold.woff": "/rpc/static/media/Matter-Bold.5594b5e83cd918a5c91b.woff",
+    "static/media/Matter-Heavy.woff": "/rpc/static/media/Matter-Heavy.bed3ed24aa9f989c902a.woff",
+    "static/media/Matter-Light.woff": "/rpc/static/media/Matter-Light.1f9b94b66f80a07a65ea.woff",
+    "static/media/asset 5.png": "/rpc/static/media/asset 5.461893053e8c72652c40.png",
+    "static/media/asset 11.svg": "/rpc/static/media/asset 11.77ce55bad7367afb57c44de3ac1d0d07.svg",
+    "static/media/asset 8.octet-stream": "/rpc/static/media/asset 8.f4d0a6bc8a0ccf38e082.octet-stream",
+    "static/media/asset 10.octet-stream": "/rpc/static/media/asset 10.765bbf6df221404e7d62.octet-stream",
+    "static/media/asset 9.octet-stream": "/rpc/static/media/asset 9.c12c2e94918813cb8e88.octet-stream",
+    "static/media/asset 21.svg": "/rpc/static/media/asset 21.b0f0d09788b6afba45b39b054d40acbc.svg",
+    "static/media/asset 22.svg": "/rpc/static/media/asset 22.49d21fd8f4a9b0227d9394e49a0f8814.svg",
+    "static/media/logo.svg": "/rpc/static/media/logo.e6b44e5e320ca571ed598e4376385986.svg",
+    "index.html": "/rpc/index.html",
+    "static/media/asset 20.svg": "/rpc/static/media/asset 20.a88c81e3adbc53285b489119cb62d213.svg",
+    "static/media/downArrow.svg": "/rpc/static/media/downArrow.38cbd8d85f15e52b0903aac5aa46c1fc.svg",
+    "static/media/asset 14.svg": "/rpc/static/media/asset 14.5d36705e1849d7b93c61d2a5a8768d17.svg",
+    "main.c6ee2a7a.css.map": "/rpc/static/css/main.c6ee2a7a.css.map",
+    "main.bd75ae93.js.map": "/rpc/static/js/main.bd75ae93.js.map",
+    "787.b154260e.chunk.js.map": "/rpc/static/js/787.b154260e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c6ee2a7a.css",
+    "static/js/main.bd75ae93.js"
+  ]
+}
