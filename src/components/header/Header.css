@@ -1,0 +1,165 @@
+.header-wrapper {
+  display: flex;
+  /* align-items: center; */
+  align-items: center;
+
+  flex-direction: column;
+  /* justify-content: center; */
+
+  position: relative;
+  overflow: hidden;
+
+  height: 100vh;
+}
+
+.header-top {
+  position: absolute;
+  top: 0;
+
+  /* margin-top: 1rem; */
+  top: 0;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+
+  width: 100%;
+  max-width: 1280px;
+
+  height: 90px;
+
+  padding-right: 1.5rem;
+  padding-left: 1.5rem;
+}
+
+.logo {
+  /* height: 60px; */
+  width: 120px;
+
+  z-index: 1;
+}
+
+.header-top-button {
+  font-size: 16px;
+  line-height: 24px;
+  border-radius: 12px;
+  background-color: #000000;
+  opacity: 0.6;
+  color: white;
+  font-weight: 600;
+  padding: 11px 30px;
+
+  cursor: pointer;
+
+  z-index: 999;
+}
+
+.header-top-button:hover {
+  color: #7deddd;
+  opacity: 1;
+}
+
+.header-video {
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  left: 0;
+  height: 100%;
+  width: 100%;
+  z-index: -1;
+}
+
+.view {
+  border: #ff0000 1px solid;
+}
+
+.hero-banner {
+  width: 100%;
+  max-width: 1280px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+
+  height: calc(100vh - 90px);
+
+  padding-bottom: 90px;
+}
+
+.nx-hero-image {
+  width: 420px;
+  /* 225 width after break */
+  height: auto;
+}
+
+.hero-heading {
+  width: 700px;
+  /* 300 width after break */
+  font-size: 3.4rem;
+}
+
+.star {
+  padding: 0 5px;
+}
+
+.apply-input-wrapper {
+  /* display: flex;
+  flex-direction: column; */
+  /* border-radius: 12px; */
+  width: 400px;
+}
+
+.apply-input {
+  background-color: #000000;
+  border-radius: 12px;
+
+  display: flex;
+  justify-content: space-between;
+
+  padding: 6px;
+}
+
+.input-head {
+  background-color: black;
+  border-radius: 0;
+  border: 0px;
+  color: white;
+
+  width: 100%;
+
+  padding: 0.5rem;
+
+  /* placeholder-[#7E8587]  */
+  /* width: 44vw; */
+}
+
+.input-head:focus {
+  outline: none;
+}
+
+.apply-button {
+  font-size: 16px;
+  line-height: 24px;
+
+  margin: 0;
+  border-radius: 12px;
+  background-color: #fdef78;
+  color: #1a202c;
+  padding: 11px 30px;
+
+  border: 0px;
+
+  width: 200px;
+}
+
+.disclamer {
+  display: flex;
+  font-size: 10px;
+  line-height: 12px;
+  padding: 12px;
+}
+
+/* 768px */
+
+input[type="checkbox"]:focus {
+  outline: max(2px, 0.15em) solid currentColor;
+  outline-offset: max(2px, 0.15em);
+}
